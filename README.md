@@ -1,2 +1,6 @@
-# InterfacesInteligentes_Cardboard
-Práctica de la asignatura Interfaces Inteligentes - Cardboard
+# Interfaces Inteligentes
+## Cardboard
+
+- Se genera apk con el ejemplo del SDK de Google Cardboard para Unity.
+
+![demo](demos/ej.gif)
