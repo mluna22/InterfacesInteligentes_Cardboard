@@ -3,4 +3,4 @@
 
 - Se genera apk con el ejemplo del SDK de Google Cardboard para Unity.
 
-![demo](demos/ej.gif)
+![demo](demos/ej.png)
